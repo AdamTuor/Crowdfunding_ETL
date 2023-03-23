@@ -2,13 +2,13 @@
 
 ## Division of work
 **Adam**
--Categories
--Subcategories
--Campaign DataFrame
--DB schema
+- Categories
+- Subcategories
+- Campaign DataFrame
+- DB schema
 
 **Gustavo**
--Categories
--Subcategories
--Contacts DataFrame
--DB schema
+- Categories
+- Subcategories
+- Contacts DataFrame
+- DB schema
